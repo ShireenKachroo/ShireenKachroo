@@ -12,6 +12,6 @@
 
 ⚡ Fun fact: When I'm not coding, you can find me lost in a good book or exploring new opportunities in this field by attending various events/webinars/courses.
 
-< Dreaming big and daring to be unique :-) >
+
 
 
