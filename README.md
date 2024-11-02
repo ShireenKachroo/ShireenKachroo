@@ -1,6 +1,6 @@
+<br>
 <h1 align="center">
-   Hi, I’m ShireenKachroo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m Shireen!
 </h1>
   <br><h3 align="center">A passionate BTech CSE student diving into the world of coding and technology.</h3>
 
@@ -39,10 +39,24 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShireenKachroo)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShireenKachroo)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/ShireenKachroo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShireenKachroo" />
+</a> 
+<a href="https://github.com/ShireenKachroo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShireenKachroo&layout=compact&langs_count=8&card_width=320" />
+</a>
+<br>
+
+
+---
+
+
+### Thank you for visiting!
+Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊
 
 
