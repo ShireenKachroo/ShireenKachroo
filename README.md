@@ -9,7 +9,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdibDg0aHQ2cXJ0YWhhYzNmc2lnbXIweGE5NmNieTQ1ZnBqMWd3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 
----
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### :woman_technologist: About Me :
 
 👀 I’m interested in exploring the endless possibilities in the field of Computer Science, from web development to data science and everything in between.
@@ -22,7 +23,7 @@
 
 ⚡ Fun fact: When I'm not coding, you can find me lost in a good book or exploring new opportunities in this field by attending various events/webinars/courses.
 
----
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -37,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
----
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### :fire: GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShireenKachroo)](https://git.io/streak-stats)
@@ -53,8 +54,7 @@
 <br>
 
 
----
-
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Thank you for visiting!
 Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊
