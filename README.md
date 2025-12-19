@@ -1,46 +1,112 @@
-<br>
-<h1 align="center">
-   Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m Shireen!
+<h1 align = "center">
+  Hi there 👋, I'm Shireen Kachroo
 </h1>
-  <br><h3 align="center">A passionate BTech CSE student diving into the world of coding and technology.</h3>
 
-  
+<br/>
+
 <div id="header" align="center">
-<img src="https://camo.githubusercontent.com/a6b1f1bf8d2b814acef283546cbbaa89621a3f22f2447e7778626e34660eca06/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636d6469624467306148513263584a3059576868597a4e6d63326c6e62584977654745354e6d4e69655451315a6e42714d57643363695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7061547a37555a625066545a4652596e6e422f67697068792e676966" width="200"/>
+  <img src="https://camo.githubusercontent.com/a6b1f1bf8d2b814acef283546cbbaa89621a3f22f2447e7778626e34660eca06/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636d6469624467306148513263584a3059576868597a4e6d63326c6e62584977654745354e6d4e69655451315a6e42714d57643363695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7061547a37555a625066545a4652596e6e422f67697068792e676966" width="200"/>
 </div>
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### :woman_technologist: About Me :
+<h2>About Me</h2>
 
-👀 I’m interested in exploring the endless possibilities in the field of Computer Science, from web development to data science and everything in between.
+<ul>
+  <li>
+    I’m <b>Shireen</b>, a B.Tech CSE student passionate about exploring how technology solves real-world problems.
+    What began as curiosity about coding has evolved into a strong interest in <b>Data Analytics, Machine Learning, and Development</b>.
+  </li>
 
-🌱 I’m currently learning the ins and outs of various programming languages and frameworks, honing my skills to become proficient in coding and development.
+  <li>
+    I enjoy working end-to-end on projects—from understanding data and designing logic to building dashboards
+    and meaningful solutions. Alongside this, I consistently practice C++ and Data Structures & Algorithms
+    to strengthen my core foundations.
+  </li>
 
-💞️ I’m looking to collaborate on exciting projects that challenge me and allow me to apply my knowledge in real-world scenarios. Let's team up and build something awesome together!
+  <li>
+    I have a solid understanding of <b>Object-Oriented Programming (OOPS)</b>, 
+    <b>Operating Systems</b>, and <b>Database Management Systems (DBMS)</b>, 
+    which enables me to write efficient, structured code.
+  </li>
 
-📫 How to reach me: Feel free to shoot me a message here on GitHub or connect with me on <a href = "www.linkedin.com/in/shireen-kachroo">LinkedIn</a>. I'm always open to networking and discussing new ideas.
+  <li>
+    I actively share my learnings by writing technical blogs on Medium, documenting concepts and insights gained during my journey.
+  </li>
 
-⚡ Fun fact: When I'm not coding, you can find me lost in a good book or exploring new opportunities in this field by attending various events/webinars/courses.
+  <li>
+    I am currently seeking <b>internships, open-source contributions, and project collaborations</b> where I can
+    apply my skills in real-world environments and grow through hands-on experience.
+  </li>
+</ul>
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-</div>
+<h2>Skills & Tools</h2>
+
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Skills & Tools</th>
+  </tr>
+
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Web Technologies</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Data Analytics & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>BI & Visualization</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### :fire: GitHub Stats :
+<h2>GitHub Stats</h2>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShireenKachroo)](https://git.io/streak-stats)
 <br>
 
@@ -56,7 +122,32 @@
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Thank you for visiting!
-Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊
+<h2>Connect With Me</h2>
 
+<p >
+  <a href="mailto:kachrooshireen3@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shireen-kachroo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ShireenKachroo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
+<p align="left">
+  <i>Feel free to reach out via email or connect on LinkedIn & GitHub. Always happy to collaborate!</i>
+</p>
+
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>Thank You</h2>
+
+<p>
+  Thanks for visiting my profile!<br/>
+  Explore my repositories, check out my projects, and feel free to reach out for collaboration or opportunities.  
+  Let's build something amazing together! 
+</p>
