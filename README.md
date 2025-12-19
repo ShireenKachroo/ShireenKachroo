@@ -14,28 +14,28 @@
 
 <ul>
   <li>
-    I’m <b>Shireen</b>, a B.Tech CSE student passionate about exploring how technology solves real-world problems.
+    I’m Shireen, a B.Tech CSE student passionate about exploring how technology solves real-world problems.
     What began as curiosity about coding has evolved into a strong interest in <b>Data Analytics, Machine Learning, and Development</b>.
   </li>
-
+  <br>
   <li>
-    I enjoy working end-to-end on projects—from understanding data and designing logic to building dashboards
+    I enjoy working end-to-end on projects, from understanding data and designing logic to building dashboards
     and meaningful solutions. Alongside this, I consistently practice C++ and Data Structures & Algorithms
     to strengthen my core foundations.
   </li>
-
+  <br>
   <li>
-    I have a solid understanding of <b>Object-Oriented Programming (OOPS)</b>, 
-    <b>Operating Systems</b>, and <b>Database Management Systems (DBMS)</b>, 
+    I have a good understanding of Object-Oriented Programming (OOPS), 
+    Operating Systems, and Database Management Systems (DBMS), 
     which enables me to write efficient, structured code.
   </li>
-
+  <br>
   <li>
     I actively share my learnings by writing technical blogs on Medium, documenting concepts and insights gained during my journey.
   </li>
-
+  <br>
   <li>
-    I am currently seeking <b>internships, open-source contributions, and project collaborations</b> where I can
+    I am currently seeking internships, open-source contributions, and project collaborations where I can
     apply my skills in real-world environments and grow through hands-on experience.
   </li>
 </ul>
