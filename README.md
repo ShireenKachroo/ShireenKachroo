@@ -107,10 +107,6 @@
 
 <h2>GitHub Stats</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShireenKachroo)](https://git.io/streak-stats)
-<br>
-
-
 <a href="https://github.com/ShireenKachroo/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShireenKachroo" />
 </a> 
