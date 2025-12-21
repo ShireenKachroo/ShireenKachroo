@@ -1,5 +1,6 @@
 <h1 align = "center">
   Hi there 👋, I'm Shireen Kachroo
+  
 </h1>
 
 <br/>
@@ -8,37 +9,51 @@
   <img src="https://camo.githubusercontent.com/a6b1f1bf8d2b814acef283546cbbaa89621a3f22f2447e7778626e34660eca06/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636d6469624467306148513263584a3059576868597a4e6d63326c6e62584977654745354e6d4e69655451315a6e42714d57643363695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7061547a37555a625066545a4652596e6e422f67697068792e676966" width="200"/>
 </div>
 
+
+
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>About Me</h2>
 
 <ul>
   <li>
-    I’m Shireen, a B.Tech CSE student passionate about exploring how technology solves real-world problems.
-    What began as curiosity about coding has evolved into a strong interest in <b>Data Analytics, Machine Learning, and Development</b>.
+    I’m Shireen, a B.Tech CSE student who enjoys breaking down problems and
+    understanding how things work beneath the surface.
+    My journey started with C++ and core programming concepts, which helped me
+    build a strong logical and analytical foundation.
   </li>
   <br>
   <li>
-    I enjoy working end-to-end on projects, from understanding data and designing logic to building dashboards
-    and meaningful solutions. Alongside this, I consistently practice C++ and Data Structures & Algorithms
-    to strengthen my core foundations.
+    Over time, my focus expanded from writing code to working with data,
+    analyzing it, extracting insights, and using it to build practical,
+    result-driven solutions through Data Analytics and Machine Learning.
   </li>
   <br>
   <li>
-    I have a good understanding of Object-Oriented Programming (OOPS), 
-    Operating Systems, and Database Management Systems (DBMS), 
-    which enables me to write efficient, structured code.
+    I like working on projects end-to-end: identifying the problem, designing
+    the logic, implementing clean solutions, and validating outcomes using
+    data and visualizations.
   </li>
   <br>
   <li>
-    I actively share my learnings by writing technical blogs on Medium, documenting concepts and insights gained during my journey.
+    Alongside development, I continuously strengthen my understanding of
+    OOPS, Operating Systems, and DBMS, as I believe strong fundamentals
+    are essential for writing scalable and maintainable code.
   </li>
   <br>
   <li>
-    I am currently seeking internships, open-source contributions, and project collaborations where I can
-    apply my skills in real-world environments and grow through hands-on experience.
+    I document my learning through technical blogs, not just
+    to share knowledge but to refine my own understanding through reflection
+    and clarity.
+  </li>
+  <br>
+  <li>
+    I am actively looking for internships, open-source contributions, and
+    collaborative projects where I can apply my skills, learn from real-world
+    challenges, and grow as a developer.
   </li>
 </ul>
+
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -120,22 +135,21 @@
 
 <h2>Connect With Me</h2>
 
-<p >
+<p align="left">
   <a href="mailto:kachrooshireen3@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="42" height="42"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shireen-kachroo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="42" height="42"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ShireenKachroo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42"/>
   </a>
 </p>
 
+
 <p align="left">
-  <i>Feel free to reach out via email or connect on LinkedIn & GitHub. Always happy to collaborate!</i>
+  <i>Always open to meaningful conversations and collaborations via email, LinkedIn, and GitHub.!</i>
 </p>
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -143,7 +157,5 @@
 <h2>Thank You</h2>
 
 <p>
-  Thanks for visiting my profile!<br/>
-  Explore my repositories, check out my projects, and feel free to reach out for collaboration or opportunities.  
-  Let's build something amazing together! 
+  Thanks for stopping by.<br>You’re welcome to explore my projects and repositories, and connect for collaboration or opportunities.
 </p>
