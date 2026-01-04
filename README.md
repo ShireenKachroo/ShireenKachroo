@@ -127,11 +127,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=ShireenKachroo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>Connect With Me</h2>
-
 <p align="left">
   <a href="mailto:kachrooshireen3@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="42" height="42"/>
