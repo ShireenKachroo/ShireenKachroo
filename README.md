@@ -121,11 +121,10 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShireenKachroo&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShireenKachroo&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShireenKachroo&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=ShireenKachroo&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo&type=top-repos)
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
