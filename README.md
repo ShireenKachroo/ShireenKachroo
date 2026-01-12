@@ -121,9 +121,9 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Stats:
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo&type=languages)
-
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ShireenKachroo&show_icons=true)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ShireenKachroo)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShireenKachroo&layout=compact)
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
