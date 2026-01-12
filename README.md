@@ -123,8 +123,7 @@
 ## GitHub Stats:
 ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo)
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ShireenKachroo&type=top-repos)
+
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
