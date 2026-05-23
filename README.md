@@ -21,19 +21,6 @@
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Featured Projects
-
-### Query Optimization Engine
-A modular SQL Query Optimization Engine built in C++ that simulates the query planning and optimization phase of a relational DBMS using heuristic and cost-based optimization techniques.
-
-### Propagation & Mitigation of Propaganda in Online Social Networks
-An NLP and Social Network Analysis-based system that detects propaganda content and simulates its propagation using the SI diffusion model, BERT/RoBERTa, and Explainable AI techniques.
-
-### YouTube Watch History Analysis: User Behavior Clustering
-A behavioral analytics project that analyzes YouTube watch history data using feature engineering, K-Means clustering, and Power BI dashboards to uncover viewing patterns and learning trends.
-
-<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Skills & Tools
 
 <table>
