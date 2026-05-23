@@ -1,63 +1,40 @@
-<h1 align = "center">
-  Hi there 👋, I'm Shireen Kachroo
-  
-</h1>
+<h1 align="center">Hi 👋, I'm Shireen Kachroo</h1>
 
-<br/>
+<p align="center">
+  B.Tech CSE Student @ JIIT <br>
+  Interested in Software Development, Machine Learning, Data Analytics, and System-Oriented Problem Solving
+</p>
 
-<div id="header" align="center">
-  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/a955baeb-369b-4455-9a2a-7fc8cb5b6882" />
+---
+
+<div align="center">
+  <img width="200" height="200" alt="profile" src="https://github.com/user-attachments/assets/a955baeb-369b-4455-9a2a-7fc8cb5b6882" />
 </div>
 
+## About Me
 
-
-<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2>About Me</h2>
-
-<ul>
-  <li>
-    I’m Shireen, a B.Tech CSE student who enjoys breaking down problems and
-    understanding how things work beneath the surface.
-    My journey started with C++ and core programming concepts, which helped me
-    build a strong logical and analytical foundation.
-  </li>
-  <br>
-  <li>
-    Over time, my focus expanded from writing code to working with data,
-    analyzing it, extracting insights, and using it to build practical,
-    result-driven solutions through Data Analytics and Machine Learning.
-  </li>
-  <br>
-  <li>
-    I like working on projects end-to-end: identifying the problem, designing
-    the logic, implementing clean solutions, and validating outcomes using
-    data and visualizations.
-  </li>
-  <br>
-  <li>
-    Alongside development, I continuously strengthen my understanding of
-    OOPS, Operating Systems, and DBMS, as I believe strong fundamentals
-    are essential for writing scalable and maintainable code.
-  </li>
-  <br>
-  <li>
-    I document my learning through technical blogs, not just
-    to share knowledge but to refine my own understanding through reflection
-    and clarity.
-  </li>
-  <br>
-  <li>
-    I am actively looking for internships, open-source contributions, and
-    collaborative projects where I can apply my skills, learn from real-world
-    challenges, and grow as a developer.
-  </li>
-</ul>
-
+- I’m a Computer Science student with a strong interest in problem-solving, system design concepts, and data-driven applications.
+- My core foundation lies in **C++, DSA, DBMS, OOP, and Operating Systems**, along with hands-on experience in Machine Learning and Data Analytics.
+- I enjoy building projects that combine analytical thinking with practical implementation ranging from query optimization systems to NLP and Social Network Analysis-based applications.
+- Alongside development, I actively solve DSA problems and continuously explore how scalable and efficient systems are designed internally.
+- I also write technical blogs on Medium to simplify concepts and strengthen my own understanding through structured learning.
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>Skills & Tools</h2>
+## Featured Projects
+
+### Query Optimization Engine
+A modular SQL Query Optimization Engine built in C++ that simulates the query planning and optimization phase of a relational DBMS using heuristic and cost-based optimization techniques.
+
+### Propagation & Mitigation of Propaganda in Online Social Networks
+An NLP and Social Network Analysis-based system that detects propaganda content and simulates its propagation using the SI diffusion model, BERT/RoBERTa, and Explainable AI techniques.
+
+### YouTube Watch History Analysis: User Behavior Clustering
+A behavioral analytics project that analyzes YouTube watch history data using feature engineering, K-Means clustering, and Power BI dashboards to uncover viewing patterns and learning trends.
+
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Skills & Tools
 
 <table>
   <tr>
@@ -120,35 +97,31 @@
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## GitHub Stats:
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ShireenKachroo&show_icons=true)
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ShireenKachroo)](https://github.com/pranesh-2005/github-readme-stats-fast)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShireenKachroo&layout=compact)
+## GitHub Stats
+
+<p align>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ShireenKachroo&show_icons=true" height="165">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShireenKachroo&layout=compact" height="165">
+</p>
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>Connect With Me</h2>
+## Connect With Me
+
 <p align="left">
   <a href="mailto:kachrooshireen3@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="42" height="42"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/shireen-kachroo" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="42" height="42"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/ShireenKachroo" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42"/>
   </a>
 </p>
 
-
-<p align="left">
-  <i>Always open to meaningful conversations and collaborations via email, LinkedIn, and GitHub.!</i>
-</p>
-
-<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2>Thank You</h2>
-
 <p>
-  Thanks for stopping by.<br>You’re welcome to explore my projects and repositories, and connect for collaboration or opportunities.
+  Open to Software Development, Machine Learning, and Data Analytics opportunities and collaborations.
 </p>
