@@ -51,6 +51,7 @@
     <td><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
 
